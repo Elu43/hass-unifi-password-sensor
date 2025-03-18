@@ -1,0 +1,8 @@
+{
+  "domain": "unifi_password_sensor",
+  "name": "UniFi Password Sensor",
+  "documentation": "https://github.com/Elu43/hass-unifi-password-sensor",
+  "dependencies": ["unifi"],
+  "codeowners": ["@Elu43"],
+  "requirements": []
+}
